@@ -1,0 +1,8 @@
+KONTRIBUSI KELOMPOK
+
+1.  Syarif  Hidayatullah
+     membuat Create Membuat fitur untuk menambah data barang baru ke database menggunakan form input
+2. Iman
+    membuat Read Menampilkan data dari database, agar user bisa melihat daftar barang yang sudah tersimpan.
+3. Hilal Maulana
+     membuat Update & Delete Membuat fitur untuk mengedit data barang yang sudah ada dan menghapus data langsung dari daftar barang.
